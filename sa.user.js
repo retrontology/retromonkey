@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name     Unnamed Script 979425
+// @name     SA ATP
 // @version  1
 // @include https://forums.somethingawful.com/*
 // @include http://forums.somethingawful.com/*
